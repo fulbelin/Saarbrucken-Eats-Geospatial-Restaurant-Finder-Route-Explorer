@@ -1,0 +1,6 @@
+Flask==2.2.2
+pymysql==1.0.2       # MySQL client library (use this for MySQL)
+psycopg2==2.9.3      # PostgreSQL client library (use this for Postgres)
+googlemaps==4.0.1    # Google Maps API client library
+geopy==2.3.0         # Geocoding library for additional geolocation handling
+Flask-SQLAlchemy==2.5.1 # SQLAlchemy ORM for database interaction
