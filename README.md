@@ -94,7 +94,7 @@ pip install -r requirements.txt
 
 1. **Data Cleaning & Importing**: 
     - Extracted relevant columns from `Dudweiler-data.xlsx` and imported them into a relational database.
-    - Chose MySQL (or PostgreSQL) for database management due to the need for fast querying and scalability.
+    - Chose SQLite for database management due to the need for fast querying and scalability.
 
 2. **Filtering & Statistics**: 
     - Filtered places based on zip code `66125` for Dudweiler and provided statistics (total places, number of restaurants, different types of restaurants, etc.).
