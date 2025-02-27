@@ -1,4 +1,4 @@
-# Google Maps Project
+# Saarbrücken Eats: Geospatial Restaurant Finder & Route Explorer
 
 ## Project Overview
 
