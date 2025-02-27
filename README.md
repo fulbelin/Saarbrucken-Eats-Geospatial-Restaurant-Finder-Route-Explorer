@@ -1,8 +1,10 @@
-# Google Maps Pipeline Project
+# Saarbrücken Eats: Geospatial Restaurant Finder & Route Explorer
+
+Saarbrücken Eats" is an interactive web dashboard that leverages SQL, Google Maps APIs, and geospatial visualizations to explore and analyze restaurants in Dudweiler and the Saarland Informatics Campus. The project provides insights such as the closest restaurants, the best-rated dining options, and route suggestions for travel, all presented through dynamic maps and detailed statistics.
 
 ## Project Overview
 
-The goal of this task is to clean, import, analyze, and visualize location-based data related to restaurants and places in Dudweiler and the Saarland Informatics Campus (SIC) in Saarbrücken. This project utilizes SQL for data storage, Google APIs for geolocation, and presents insights using SQL queries and geospatial visualizations.
+The goal of this project is to clean, import, analyze, and visualize location-based data related to restaurants and places in Dudweiler and the Saarland Informatics Campus (SIC) in Saarbrücken. This project utilizes SQL for data storage, Google APIs for geolocation, and presents insights using SQL queries and geospatial visualizations.
 
 The project is broken down into several tasks:
 
