@@ -19,7 +19,7 @@ The project is broken down into several tasks:
 - **Python**: For data processing, SQL querying, API integration, and visualization.
 - **Flask**: Web framework used to create the dashboard.
 - **Google APIs**: For geolocation services like reverse geocoding and route suggestions.
-- **SQL**: Relational database management system (MySQL, PostgreSQL) for data storage.
+- **SQL**: Relational database management system (SQLite) for data storage.
 - **HTML/CSS**: For the web interface of the dashboard.
 - **JavaScript (Leaflet)**: For displaying interactive maps and geospatial visualizations.
 
