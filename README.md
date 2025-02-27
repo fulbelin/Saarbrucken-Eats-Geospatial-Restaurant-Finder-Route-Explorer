@@ -1,4 +1,4 @@
-# Google Maps Pipeline Project
+# Google Maps Project
 
 ## Project Overview
 
